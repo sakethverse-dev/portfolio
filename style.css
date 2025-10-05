@@ -92,3 +92,8 @@ footer a {
   color: white;
   border-radius: 10px;
 }
+
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
